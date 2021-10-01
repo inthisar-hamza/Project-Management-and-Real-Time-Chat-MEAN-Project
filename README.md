@@ -4,9 +4,11 @@
 
 <strong> Still this project is not public and it was under private mode, I will consider it after completing required features to function as project management</strong>
 
-<strong> SDK and Technologies: Socket.IO, Angular, NodeJS, Express, MySQL, StripeSDK </strong>
 
 <strong> Still you can check live page Here: https://assignme-now.herokuapp.com/</strong>
+
+<strong> SDK and Technologies: Socket.IO, Angular, NodeJS, Express, MySQL, StripeSDK </strong>
+
 
 
 <img src="https://github.com/inthisar-hamza/Project-Management-and-Real-Time-Chat-MEAN-Project/raw/main/Images/Home1.png"/>
