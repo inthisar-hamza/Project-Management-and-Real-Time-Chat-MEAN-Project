@@ -1,4 +1,4 @@
-# Project-Management-and-Real-Time-Chat-MEAN-Project
+# Project Management and Real Time Chat MEAN Project
 
 <strong> Hello, I have developing this Web App to workaround different technolgies together and implementing all features that needs to this project management system and freelancing, this project is not fully completed yet, and currently underhold dueto final year project, Thank for understanding!</strong>
 
