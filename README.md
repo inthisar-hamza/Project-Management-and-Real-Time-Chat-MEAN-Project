@@ -4,7 +4,6 @@
 
 <strong> Still this project is not public and it was under private mode, I will consider it after completing required features to function as simple project management</strong>
 
-
 <strong> Still you can check live page Here: https://assignme-now.herokuapp.com/</strong>
 
 <strong> SDK and Technologies: Socket.IO, Angular, NodeJS, Express, MySQL, StripeSDK </strong>
